@@ -199,3 +199,11 @@ header.masthead .masthead-content .masthead-subheading {
 .text-black {
 	color: black
 }
+
+.hero {
+	z-index: 0;
+	position: relative;
+	text-align: center;
+    margin-top: -150px;
+
+}
